@@ -35,20 +35,6 @@ Built using **Node.js, Express, MongoDB Atlas, and Vanilla JavaScript**.
 
 * JSON Web Token (JWT)
 
----
-
-## 📸 Screenshots
-
-### 🔑 Signup / Login Page
-
-![Auth Page](screenshots/auth.png)
-
-### 📋 Dashboard Page
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## 📂 Project Structure
 
 ```
